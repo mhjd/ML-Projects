@@ -8,5 +8,5 @@ I use it to keep track of ongoing work, document what I am currently learning, a
 
 | Project | Status | Focus |
 | --- | --- | --- |
-| [Surgical Scene Segmentation - CholecSeg8k](https://github.com/mhjd/cholecseg8k-deeplabv3) | In progress | Fine-tuning DeepLabV3-ResNet50 for 13-class semantic segmentation on laparoscopic images, with a reproducible training and evaluation pipeline. |
+| [Surgical Scene Segmentation - CholecSeg8k](https://github.com/mhjd/cholecseg8k-deeplabv3) | In progress | A computer vision project on CholecSeg8k with DeepLabV3-ResNet50, focused on building a clear baseline and explaining the dataset and evaluation choices behind the results. |
 | [GPT-2 Reimplementation from Scratch](https://github.com/mhjd/GPT-2) | Working prototype | Implementing and training a GPT-2-style Transformer language model in PyTorch, guided by the GPT-2 paper, *Attention Is All You Need*, and Andrej Karpathy's GPT-2 tutorial. |
