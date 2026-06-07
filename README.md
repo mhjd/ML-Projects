@@ -2,8 +2,6 @@
 
 This repository is an index of my machine learning projects and research-oriented experiments.
 
-I use it to keep track of ongoing work, document what I am currently learning, and group together projects that are related to machine learning, computer vision, and robotics.
-
 ## Projects
 
 | Project | Status | Focus |
